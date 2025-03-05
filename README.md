@@ -70,4 +70,4 @@ Welcome to my GitHub! I'm passionate about building innovative solutions, explor
 
 📌 **GitHub**: [@VanshGuptaX](https://github.com/VanshGuptaX)  
 📌 **Email**: vanshguptax@gmail.com  
-📌 **LinkedIn**: [[linkedin.com/in/vanshgupta]([](https://www.linkedin.com/in/vansh-gupta-598801204/)https://linkedin.com/in/vanshgupta](https://www.linkedin.com/in/vansh-gupta-598801204/))  
+
