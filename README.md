@@ -36,8 +36,9 @@ Welcome to my GitHub! I'm passionate about building innovative solutions, explor
 
 ### **Technical Projects & Open Source Contributions**  
 - Developed **Block Estate**, a real estate platform using **Blockchain & IPFS**  
-- Built an **AI-powered stock prediction model** with a web-based user interface  
-- Created an **image enhancement and filtering tool** using OpenCV and Python  
+- Built a **Book Selling Website** for readers to browse and purchase books online  
+- Created an **Aura Color Prediction App** that analyzes aura colors based on user input  
+
 
 ---
 
@@ -47,28 +48,26 @@ Welcome to my GitHub! I'm passionate about building innovative solutions, explor
 🔹 **Blockchain-based real estate platform** using IPFS and MetaMask  
 🔹 Secure, decentralized property transactions  
 🔹 **Tech Stack:** Solidity, React.js, IPFS  
+🔹 **[Live Demo](https://block-estate-rodhdnqy1-0x0ayush.vercel.app/)**  
 
-### 📊 Stock Trend Predictor  
-🔹 Predicts stock price movements based on historical trends  
-🔹 Built using **Machine Learning, Python, and Flask**  
+### 💙 Stucide - A Suicide Prevention and Helpline Website  
+🔹 **A platform dedicated to mental health awareness and support**  
+🔹 Provides **resources, helplines, and a safe space** for people in distress  
+🔹 **Tech Stack:** HTML, Tailwind CSS, JavaScript  
+🔹 **[Live Demo](https://vanshguptax.github.io/Stucide/)**  
 
 ### 🎭 Fake Interview Mailer  
 🔹 Web tool for generating fake interview emails (for fun!)  
 🔹 **Tech Stack:** HTML, Tailwind CSS, JavaScript  
 🔹 **[Live Demo](https://vanshguptax.github.io/FakeinterviewMailer/)**  
+ 
 
 ---
 
-## 🏆 Achievements & Certifications  
 
-- 🏅 **Certified in Deep Learning & AI** (Coursera, Udacity, etc.)  
-- 🏆 **Google Cloud Certified** (If applicable)  
-- 📜 **Published Research Paper on [Topic]**  
-
----
 
 ## 📫 Connect With Me  
 
 📌 **GitHub**: [@VanshGuptaX](https://github.com/VanshGuptaX)  
-📌 **Email**: vansh@example.com *(Replace with actual email)*  
-📌 **LinkedIn**: [linkedin.com/in/vanshgupta](https://linkedin.com/in/vanshgupta)  
+📌 **Email**: vanshguptax@gmail.com  
+📌 **LinkedIn**: [[linkedin.com/in/vanshgupta]([](https://www.linkedin.com/in/vansh-gupta-598801204/)https://linkedin.com/in/vanshgupta](https://www.linkedin.com/in/vansh-gupta-598801204/))  
